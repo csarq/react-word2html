@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-word2html/static/css/main.5eda9544.css",
+    "main.js": "/react-word2html/static/js/main.1b821b39.js",
+    "static/js/453.442fd486.chunk.js": "/react-word2html/static/js/453.442fd486.chunk.js",
+    "index.html": "/react-word2html/index.html",
+    "main.5eda9544.css.map": "/react-word2html/static/css/main.5eda9544.css.map",
+    "main.1b821b39.js.map": "/react-word2html/static/js/main.1b821b39.js.map",
+    "453.442fd486.chunk.js.map": "/react-word2html/static/js/453.442fd486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eda9544.css",
+    "static/js/main.1b821b39.js"
+  ]
+}
