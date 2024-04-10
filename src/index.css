@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: rgb(163, 243, 202);
+  background: -moz-radial-gradient(circle, rgba(163, 243, 202, 1) 0%, rgba(10, 27, 112, 1) 56%);
+  background: -webkit-radial-gradient(circle, rgba(163, 243, 202, 1) 0%, rgba(10, 27, 112, 1) 56%);
+  background: radial-gradient(circle, rgba(163, 243, 202, 1) 0%, rgba(10, 27, 112, 1) 56%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a3f3ca", endColorstr="#0a1b70", GradientType=1);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.outputTextArea {
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
